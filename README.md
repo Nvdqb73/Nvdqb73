@@ -1,7 +1,10 @@
 Hi fellows 👋
   . 🌱 I’m currently learning 
+  </br>
   . 💬 Ask me about every thing
+  </br>
   . 📫 How to reach me: Facebook
+  </br>
   . ⚡ Fun fact: I share... a lot!
 
 
