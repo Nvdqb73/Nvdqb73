@@ -14,4 +14,5 @@ Hi fellows 👋
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nvdqb73&theme=radical&hide_border=false)<br/>
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313e6x4yrsng5e232sxwuutphvxa&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313e6x4yrsng5e232sxwuutphvxa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+![][[https://spotify-github-profile.vercel.app/api/view.svg?uid=313e6x4yrsng5e232sxwuutphvxa&redirect=true]
+![][https://spotify-github-profile.vercel.app/api/view.svg?uid=313e6x4yrsng5e232sxwuutphvxa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
