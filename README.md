@@ -1,9 +1,8 @@
-
-- 🌱 I’m currently learning 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi fellows 👋
+  . 🌱 I’m currently learning 
+  . 💬 Ask me about every thing
+  . 📫 How to reach me: Facebook
+  . ⚡ Fun fact: I share... a lot!
 
 
 # 📊GitHub Stats :
