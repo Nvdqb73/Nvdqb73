@@ -1,4 +1,4 @@
-Hi fellows 👋
+Hi👋
   </br>
   . 🌱 I’m currently learning 
   </br>
