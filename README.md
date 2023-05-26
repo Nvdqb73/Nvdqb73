@@ -2,7 +2,7 @@ Hi👋
   </br>
   . 🌱 I’m currently learning 
   </br>
-  . 💬 Ask me about every thing
+  . 💬 Ask me about every [here]
   </br>
   . 📫 How to reach me: [Facebook]
   </br>
@@ -16,3 +16,4 @@ Hi👋
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nvdqb73&theme=radical&hide_border=false)<br/>
 
 [Facebook]: https://www.facebook.com/EmLaCuaAnh.1009
+[here] :https://github.com/Nvdqb73/Nvdqb73/issues
