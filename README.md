@@ -7,7 +7,7 @@ Hi👋
   </br>
   . 💬 Ask me about every [here]
   </br>
-  . 📫 How to reach me: [Facebook]
+  . 📫 How to reach me: [Nguyen Viet Duc]
   </br>
   . ⚡ Fun fact: I share... a lot!
   
