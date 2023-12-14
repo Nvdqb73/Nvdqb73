@@ -17,5 +17,5 @@ Hi👋
 ![](https://github-readme-stats.vercel.app/api?username=Nvdqb73&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nvdqb73&theme=radical&hide_border=false)<br/>
 
-[Facebook]: nvdqb73@gmail.com
+[Facebook]: https://www.facebook.com/Nvdqb73
 [here]: https://github.com/Nvdqb73/Nvdqb73/issues
